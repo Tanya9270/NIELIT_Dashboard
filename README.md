@@ -54,7 +54,7 @@ To modify the dashboard:
 4. Update data source connections if schema changes
 5. Save changes and re-publish
 
-## Data Refresh
+## Data Refresh 
 - For automatic updates, publish to Power BI Service and configure scheduled refresh
 - For manual updates, open the file and click `Refresh All`
 
