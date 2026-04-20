@@ -1,7 +1,7 @@
 # NIELIT Dashboard Power BI Project 
 
 ## Overview 
-This project contains a Power BI dashboard for NIELIT (National Institute of Electronics & Information Technology). The dashboard provides interactive visualizations and analytics to deliver insights from NIELIT data.
+This project contains a Power BI dashboard for NIELIT (National Institute of Electronics & Information Technology). The dashboard provides interactive visualizations and analytics to deliver insights from NIELIT data. 
 
 ## Files Included
 - `powerBI_project.pbix` - Main Power BI dashboard file
