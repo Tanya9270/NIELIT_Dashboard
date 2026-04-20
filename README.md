@@ -7,7 +7,7 @@ This project contains a Power BI dashboard for NIELIT (National Institute of Ele
 - `powerBI_project.pbix` - Main Power BI dashboard file 
 
 ## Prerequisites 
-- **Power BI Desktop** (latest version recommended)
+- **Power BI Desktop** (latest version recommended) 
 - Access to required data sources (Excel, SQL, CSV, etc.)
 
 ## Getting Started
