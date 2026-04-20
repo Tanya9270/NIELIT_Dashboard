@@ -28,7 +28,7 @@ This project contains a Power BI dashboard for NIELIT (National Institute of Ele
 - Use slicers to refine the view by date, category, or other dimensions
 
 ## Features
-- **Interactive Visualizations**: Charts, tables, and maps for data exploration
+- **Interactive Visualizations**: Charts, tables, and maps for data exploration 
 - **Drill-Down Capabilities**: Click through data to get detailed insights
 - **Filtering & Slicing**: Dynamic filters to analyze specific segments
 - **Key Performance Indicators (KPIs)**: At-a-glance metrics and progress indicators
