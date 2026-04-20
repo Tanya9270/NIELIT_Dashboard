@@ -25,7 +25,7 @@ This project contains a Power BI dashboard for NIELIT (National Institute of Ele
 ### 3. Exploring the Dashboard 
 - Navigate through different report pages using the tabs
 - Click on charts and visuals to filter and drill-down into specific data 
-- Use slicers to refine the view by date, category, or other dimensions
+- Use slicers to refine the view by date, category, or other dimensions 
 
 ## Features
 - **Interactive Visualizations**: Charts, tables, and maps for data exploration 
