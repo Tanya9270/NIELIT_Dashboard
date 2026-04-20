@@ -12,7 +12,7 @@ This project contains a Power BI dashboard for NIELIT (National Institute of Ele
 
 ## Getting Started 
 
-### 1. Opening the Dashboard
+### 1. Opening the Dashboard 
 - Open Power BI Desktop
 - Click `File > Open` and select `powerBI_project.pbix`
 - The dashboard will load with all visualizations and reports
