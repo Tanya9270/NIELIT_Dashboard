@@ -22,7 +22,7 @@ This project contains a Power BI dashboard for NIELIT (National Institute of Ele
 - Enter credentials if required for secure data sources 
 - Click `Refresh` to load the latest data
 
-### 3. Exploring the Dashboard
+### 3. Exploring the Dashboard 
 - Navigate through different report pages using the tabs
 - Click on charts and visuals to filter and drill-down into specific data
 - Use slicers to refine the view by date, category, or other dimensions
