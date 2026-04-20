@@ -19,7 +19,7 @@ This project contains a Power BI dashboard for NIELIT (National Institute of Ele
 
 ### 2. Data Connection
 - If prompted, update data source connections to point to your local or network data locations 
-- Enter credentials if required for secure data sources
+- Enter credentials if required for secure data sources 
 - Click `Refresh` to load the latest data
 
 ### 3. Exploring the Dashboard
