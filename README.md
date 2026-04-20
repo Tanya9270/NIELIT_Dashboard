@@ -10,7 +10,7 @@ This project contains a Power BI dashboard for NIELIT (National Institute of Ele
 - **Power BI Desktop** (latest version recommended) 
 - Access to required data sources (Excel, SQL, CSV, etc.) 
 
-## Getting Started
+## Getting Started 
 
 ### 1. Opening the Dashboard
 - Open Power BI Desktop
