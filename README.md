@@ -39,7 +39,7 @@ This project contains a Power BI dashboard for NIELIT (National Institute of Ele
 ### Publish to Power BI Service
 1. In Power BI Desktop, click `Home > Publish`
 2. Select your workspace in Power BI Service
-3. Share the report URL with stakeholders
+3. Share the report URL with stakeholders 
 
 ### Export Options
 - **PDF**: For static reports and sharing
